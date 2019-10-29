@@ -20,10 +20,10 @@ In your project
 ## Browser Usage.
 ```html
 <!--Using JsDeliver CDN-->
-<script src="https://cdn.jsdelivr.net/npm/shred-bootstrap/css/utilities/{utility}.css"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shred-bootstrap/css/utilities/{utility}.css">
  
 <!-- Or Using UnPkg CDN-->
-<script src="https://unpkg.com/shred-bootstrap/css/utilities/{utility}.css"></script>
+<link rel="stylesheet" href="https://unpkg.com/shred-bootstrap/css/utilities/{utility}.css">
 ```
 
 Feel free to contribute.
