@@ -10,7 +10,7 @@ import in your project.
 ```sh
 npm i shred-bootstrap
 // OR
-yarn add shred-bootsrap
+yarn add shred-bootstrap
 ```
 In your project
 ```scss
